@@ -1,3 +1,2 @@
-Hi, I’m @juanvlro 👋
-- Student at INSA Lyon 📚
-- Java lover ☕
+Hi, I’m @juanvlro 👋, a french student at INSA Lyon.
+Java lover ☕
